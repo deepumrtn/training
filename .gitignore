@@ -1,7 +1,7 @@
-`z`
+z*
 
 # Other files and folders
-.artifacts/
+/artifacts/
 
 # Executables
 *.env
